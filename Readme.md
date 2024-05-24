@@ -59,7 +59,10 @@
     *Jiasheng Ye et al.* arxiv 2023. [[Paper](https://arxiv.org/abs/2302.10025)] [[Code](https://github.com/yegcjs/DINOISER)] 
 
 14. **GlyphDiffusion: Text Generation as Image Generation** \
-    *Junyi Li et al.* arxiv 2023. [[Paper](https://arxiv.org/abs/2304.12519)] 
+    *Junyi Li et al.* arxiv 2023. [[Paper](https://arxiv.org/abs/2304.12519)]
+
+15. **low Matching for Conditional Text Generation in a Few Sampling Steps** \
+    *Hu et al.* EACL 2024. [[Paper](https://aclanthology.org/2024.eacl-short.33.pdf)] [[Code](https://taohu.me/project_flowseq/)] 
 
 ## Discrete Text Diffusion Models
 
